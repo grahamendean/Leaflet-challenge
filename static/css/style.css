@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#mapid,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  border: 4px solid white;
+  padding: 0 10px 0 10px;
+  border-radius: 12px;
+  background-color: black;
+}
+
+.legend div {
+  border-radius: 5px;
+  color: white;
+  padding: 0 5px 0 5px;
+}
